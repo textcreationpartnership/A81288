@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of several thousands of poor distress'd mariners in the English navy, kept out of their pay upon the account of Q's and R's put upon their names in the Navy books.</title>
+            <author>G. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81288</idno>
+            <idno type="STC">Wing C988A</idno>
+            <idno type="STC">ESTC R222941</idno>
+            <idno type="EEBO-CITATION">45097609</idno>
+            <idno type="OCLC">ocm 45097609</idno>
+            <idno type="VID">171218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81288)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171218)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2568:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of several thousands of poor distress'd mariners in the English navy, kept out of their pay upon the account of Q's and R's put upon their names in the Navy books.</title>
+                  <author>G. B.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: G.B.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the California State Library, Sutro Branch.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Pay, allowances, etc.</term>
+               <term>Sailors --  England --  Civil status.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171218:1" rendition="simple:additions"/>
+            <head>
+               <hi>THE CASE Of ſeveral Thouſands of poor diſtreſs'd MARINERS IN THE ENGLISH NAVY, KEPT</hi> Out of their Pay upon the Account of <hi>Q</hi>'s and <hi>R</hi>'s put upon their Names in the Navy Books.</head>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:171218:2"/>
+            <p>IT is the Misfortune of the poor Sailors of the Engliſh-Navy to have few or no Friends to take their Part, or repreſent their Grievances to the Parliament, in order to have them Redreſs'd: Juſtice indeed carries an equal Ballance, but both the Scales hang over the Earth, without any reſpect to the Sea. Tho' our Sailors are as true to their Country as the Needle of their Compaſs is to the Courſe they Steer, as faithful as the Steel to the Loadſtone; yet are they little minded, by thoſe in whoſe Power it is to do them Juſtice, as if their Generation were Monſterous, becauſe their lives are Amphibious; are born on the Land, and do Service on the Water, yet have common Juſtice on neither: They are <hi>Engliſh-men</hi> but till they are 16 or 18 Years of Age, and then arriv'd to the <hi>Ne plus ultra</hi> of their Liberty, their Freedom being in perpetual dan<g ref="char:EOLhyphen"/>ger, liable to be invaded by every Preſs-Maſter; and thoſe which were born to the Rights and Immunities of <hi>Engliſh-men,</hi> all have their Property knock'd on the Head at once, and are hawl'd away and conſtrain'd on Board-Ship, an Honourable ſort of Vaſſalage. Thus Wives have their Husbands torn from their Arms, Mothers the only hopes of their Families forc'd into Confinement more durable and uneaſy than that of their Wombs, Fathers and Sons im<g ref="char:EOLhyphen"/>priſon'd in one Wooden Goal. But were this all, the Bondage would ſeem more eaſy; the Mariners never think their Service to their Country too much, they Plough the wide Ocean, contend with the raging Billows of the deep; and with a Bravery peculier to the Sons of the Sea, meet and fight their Ene<g ref="char:EOLhyphen"/>my with a wonderful Contentment and Alacrity, in defence of their Country, and thoſe Rights and Priviledges of which they have ſo ſmall a ſhare. Indeed their Country has not been backward in making a Generous Allowance, ſuit<g ref="char:EOLhyphen"/>able to the Bravery of Men engag'd in ſuch dangerous Enterprizes; but their ill Stars have laid them under ſuch diſmal Circumſtances, under ſuch a mon<g ref="char:EOLhyphen"/>ſtrous and unparallel'd Conduct, that in the midſt of the Plenty provided for them, they have been in the greateſt Wants. It is commonly obſerv'd in deal<g ref="char:EOLhyphen"/>ings amongſt Mankind, that the Service of Labourers requires preſent Money, and the Laws of the Realm have a great reſpect to the Wages of Servants, al<g ref="char:EOLhyphen"/>lowing them to be firſt paid, even before Bonds, or any previous Obligations of a contrary Nature: But ſome would have every Sailor an Exlex, and would make us believe that the ſame decorum of Juſtice is not to be us'd in States and
+<pb facs="tcp:171218:3"/>Governments, as is practiſed amongſt Men of inferiour Ranks and Qualities: However, as the Debts to the Sailors are National, it ought to be a National con<g ref="char:EOLhyphen"/>cern; and Grievances of this kind boing unredreſs'd, may procure a National Judgment.</p>
+            <p>That the <hi>Q</hi>'s and <hi>R</hi>'s upon the Navy-Books, are a common Grievance, the poor Widows of Sailors, and their Attorneys, will loudly juſtify to their great Grief and Loſs.</p>
+            <p>The <hi>R</hi>'s upon the Navy-Books is an immoveable Letter, very ſignificant of Injuſtice, and ſerves there as a Period in other Books, puting a full ſtop to the Sailors Pay; and tho' the Perſon that ſets the permanent <hi>R</hi> may be but a Cypher himſelf in the account of Juſtice and true Worth, yet his Letter <hi>R,</hi> is productive of vaſt Sums of Money, into the Pocket of ſome Body or other, to the Ruin of the Seamen. This <hi>R,</hi> in Navy Language or Cha<g ref="char:EOLhyphen"/>racter (which you pleaſe) ſignifies <hi>Run,</hi> and this Run is of different Mean<g ref="char:EOLhyphen"/>ing and Signification too, it is Crambo'd and tortur'd moſt damnably, forc'd to expreſs the meaning of any thing the Commanders of the Navy pleaſe.</p>
+            <p>If a poor Man be ſet ſick a Shore, ſo that he cannot get a-board his Ship before ſhe Sails, then he is made run upon the Books: If he be a Shore by the Captains Order, about the Ships Buſineſs, and ſome Orders from Above force the Ship out of Harbour before he can get a-board, the Ship runs away from him, and he from the Ship at the ſame Time: If he go imme<g ref="char:EOLhyphen"/>diately on Board another Ship, yet he is Run ſtill. The immovable <hi>R,</hi> of the Navy, is as fixt as the Law of the <hi>Medes</hi> and <hi>Perſians.</hi> If he make Intereſt at the Admiralty to get the <hi>R</hi> taken off. (for 'tis in the Power of thoſe Men you know to do mighty Wonders) why then his Petition comes out with this pretty Device at the bottom, read the 11th of <hi>February,</hi> refus'd, <hi>J. Burchett.</hi>
+            </p>
+            <p>But farther to diſcover the meaning of this ſignificant Letter <hi>R,</hi> I ſhall. give an Account how it is apply'd to the poor Sailors upon the Navy-Books.</p>
+            <p n="1">I. Such as never deſign'd to deſert the Service, but being return'd from long Voyages, and their Ships being either in Port or Dock, have adventur'd to viſit their Friends, in order to provide themſelves with Apparel and other Neceſſaries, and perhaps have met with Preſs-Gangs belonging to other Ships, and forc'd on Board; this has been eſteemed by the Navy a Deſertion, and they have made ſuch Sailors <hi>Run,</hi> upon their Books.</p>
+            <p n="2">II. Thoſe that have been turn'd over from one Ship to another, and after having ſerv'd ſome time in the latter, their Tickets for their Service in the former Ships have been delivered them and after having ſerv'd on Board ſe<g ref="char:EOLhyphen"/>veral
+<pb facs="tcp:171218:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> other Ships, perhaps two or three Years, after being ſet ſick on Shore, the firſt Tickets with the reſt, have been made <hi>Quaeri'd</hi> or <hi>Run,</hi> and their Wages forfeited.</p>
+            <p>Now, that ſuch Practices as theſe are contrary to all the Law, Juſtice, and Reaſon in the World, is demonſtrable.</p>
+            <p n="1">I. Such as have their Tickets given them, are ſuppoſed to be guilty of no Crime at that juncture; and ſuch Tickets are, and have been eſteemed as the Kihg's Bonds and Bills of Exchange, and were formerly Paid upon ſight. Now, it is very hard, that a Sailor tranſgreſſing in one Ship, ſhould become ſo guilty, as by that Crime to forfeit all his Wages in former Ships: So that good and bad Service, according to Navy-Juſtice, are alike Puniſhable.</p>
+            <p n="2">II. Many well-effected People to his Majeſties Service, and out of Charity
+<pb facs="tcp:171218:5"/>to their diſtreſſed Neighbours, have ſupplied many Sailors with Money, to the full value of their Tickets, and when they come to the Navy to be Paid, receive nothing but an <hi>R</hi> for their Money,</p>
+            <p n="3">III. The <hi>Quaerying</hi> and <hi>Running</hi> of ſuch Tickets, have abominably leſſen'd the Credit of the Navy, in reſpect of Wages, and made the moſt glorious Navy in the World the moſt ſcandalous, by ſuch Barbarous abuſes, inſo<g ref="char:EOLhyphen"/>much that Tickets formerly ſold at 2<hi>s.</hi> 6<hi>d. per</hi> Pound, are now ſold for ſe<g ref="char:EOLhyphen"/>ven, eight, ten, and twelve Shillings loſs.</p>
+            <p>The next thing to be Conſidered, is the Letter <hi>Q</hi> upon the Navy-Books, which ſtands there as near Injuſtice, as it does to the Letter <hi>R</hi> in the Alpha<g ref="char:EOLhyphen"/>bet. This <hi>Q</hi> is generally put upon ſuch as are ſet ſick a Shoar; and then the poor Sailor is to Quaery for Juſtice, which he may do till he is Blind, and never find it. That this Practice is Barbarous and Inhumane, is very evident.</p>
+            <p n="1">I. It ſinks the Labourers Hire into private Pockets, deprives diſtreſſed Families of their Bread, purchaſed by the hazard of humane Life, and brings unneceſſary Charge upon Pariſhes.</p>
+            <p n="2">II. This <hi>Q</hi> is a new Letter in the Navy-Books, <hi>Quaeries</hi> being never heard of, till the Year 1690, before which time, every Man ſet ſick a Shore had his Wages paid him, and was diſcharged from the Service.</p>
+            <p n="3">III. The great Sickneſs, which at and ſince that time happened in the Fleet, was the Foundation of theſe <hi>Quaeries;</hi> a very hard Caſe, that a Sail<g ref="char:EOLhyphen"/>or muſt loſe his Money becauſe he has loſt his Health in the Service; muſt have bad Pay, becauſe he has been poyſoned with bad Proviſions.</p>
+            <p n="4">IV. Many, if not moſt of thoſe, who have been ſet ſick a Shore, have thought themſelves Diſcharged, according to former Cuſtom, being alto<g ref="char:EOLhyphen"/>gether ignorant of the new Practice of the Navy.</p>
+            <p n="5">V. Many that have been long Voyages, and ſick for many Months to<g ref="char:EOLhyphen"/>gether, ſeeing the Major part of the Ships-Crew Buryed, have been thereby deſheartened to go a-board Ship again; Diſeaſes being more dreadful to Sailors than Battle or Storm.</p>
+            <p n="6">VI. Nor can it be rationally expected, that ſuch as have contracted In<g ref="char:EOLhyphen"/>diſpoſitions and Diſtempers, by unwholſome Proviſions, or a contagious Air, ſhould after a Months Refreſhment in ſick Quarters, or labouring 6 or 12 Months under their Maladies in an Hoſpital, be fit to return a-board Ship, or be capable of doing his Majeſty Service; but the contrary is evident, by the vaſt numbers that died ſoon after their return on Board, as well as
+<pb facs="tcp:171218:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> thoſe that were ſet ſick a Shore.</p>
+            <p>And wou'd it not now be juſt to pay ſuch Men their Wages? Wou'd it not be for the Honour of his Majeſty, for the Reputation and Credit of the Nation to conſider their Caſes, and pay the Debts due from the Nation to ſuch?</p>
+            <list>
+               <item>1. <hi>As have been ſet ſick on Shore ſince the concluſion of the Peace.</hi>
+               </item>
+               <item>2. <hi>To the Executors and Attorneys of ſuch as died in Sick-Quarters, Hoſpitals, Hoſpital-Ships.</hi>
+               </item>
+               <item>3. <hi>To ſuch as after Recovery entred on Board any of his Majeſties Ships.</hi>
+               </item>
+               <item>4. <hi>To ſuch as have been Wounded or hurt, and receiv'd Penſions, or Smart-Money for the ſame.</hi>
+               </item>
+               <item>5. <hi>To ſuch as continued Six Months, or upwards, in Sick Quarters or Hoſpitals, or have been diſcharged from thence as Incurable.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:171218:7"/>
+6. <hi>To ſuch as the Captains of Ships have diſcharged by Tickets, as unſerviceable, as being either Sick, Lame or Blind,</hi> &amp;c.</item>
+            </list>
+            <p>This Uſage of free born Engliſh, might move Compaſſion in any but in thoſe whoſe Buſineſs it is to cheat them, and raiſe their own Fortunes out of their Ruins. This indeed is a miſerable Scene of humane Cruelty, unknown to the Heathen Nations, and yet practiſed in a Chriſtian Country, built on the Pillars of good and wholſome Laws, and under a Government ſet up (for no other reaſon that I know) but on purpoſe to diſtroy ſuch Arbitrary Proceed<g ref="char:EOLhyphen"/>ings, and to diſpence common Juſtice to all Men. There is little more diffe<g ref="char:EOLhyphen"/>rence betwixt a Gally Slave and an Engliſh Sailor, than that one ſerves in ex<g ref="char:EOLhyphen"/>pectation of Pay, and the other without it, yet one is ſometimes as well paid as the other. This barbarous uſage of Mariners, have made them inſtead of deſerting our Ships of War, and taking Merchants Service, forſake their Country, and Sail with Foreigners in hopes of better Juſtice and Uſage abroad, than they have met with at home. This barbarious Uſage has made many Thouſands of them turn Pirates during the laſt War; and thoſe that turn Free<g ref="char:EOLhyphen"/>booters are generally the Flower and Youth of the Seamen, ſo that in time our Ships ſhall be Man'd only with decrepid old Age, and the refuge of the Sea, to the weakning of the Nation and Government; for every Sailor loſt is a Stone taken out of our National Walls, which ſuffering ſuch continual Dila<g ref="char:EOLhyphen"/>pidations, will at laſt tumble down, and leave us expoſed to the Inſults of any Invader.</p>
+            <p>And after all, Pray what is become of the Money that was ordered to pay the Seamen, upon whom the <hi>R</hi>'s and <hi>Q</hi>'s have been put? If it remains ſtill in the King's Hands, there is yet ſome hopes of relief left to the miſerable Sailors; but if it be otherwiſe diſpoſed of, their Diſeaſe ſeems Incurable. When we look into the Pay-Office and ſee there ſome Clearks at 30<hi>l. per Annum</hi> purcha<g ref="char:EOLhyphen"/>ſing Eſtates, others turning Merchants, and employing vaſt Sums of Money in Trade, we may give a ſhrewd Gueſs what is become of the poor Sailors Money. And how ſhall their Creditors be paid? How ſhall their Widows and nume<g ref="char:EOLhyphen"/>rous Fatherleſs Children be provided for? Will not the charge to the ſeveral Pariſhes, upon this account, be havier upon the Subject than the Taxes during the War.</p>
+            <p>And now they apply themſelves to you the Honorable Members of the Houſe of Commons, as the laſt reſort of Diſtreſſed Engliſh-men, they have born you better fruit then ſome that have been better Paid, you have found the Navy to be your chief Support but your Ships without Mariners are
+<pb facs="tcp:171218:8"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> but floating Caſtles, meer Machines of War, altogether uſeleſs, and ſuch your Ships will be, if the Grievances of the Sailors are unredreſs'd.</p>
+            <closer>
+               <signed>G. B</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
